@@ -21,4 +21,4 @@ Esta aplicación web interactiva permite explorar y visualizar datos de vehícul
 3. Ejecuta la aplicación: `streamlit run app.py`
 
 ## Enlace a la aplicación
-[Próximamente en Render]
+https://proyecto-7-tripleten-k7rb.onrender.com/
